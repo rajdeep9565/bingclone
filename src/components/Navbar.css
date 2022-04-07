@@ -1,0 +1,18 @@
+.hamb {
+    height:40px;
+    width:40px;
+}
+
+.top {
+    display :flex;
+}
+.top > div {
+    display :flex;
+}
+
+.top > div > ul {
+    display :flex;
+    justify-content:space-evenly;
+    
+    
+}
